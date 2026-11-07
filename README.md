@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.svg" width="100%" alt="Sebastiao Neto — banner animado rubro-negro. Engenharia de Software, 2º período." />
+  <img src="https://raw.githubusercontent.com/Oten7/Oten7/2e1fc3b50ff3cefeff19848a9318935f7bb7a1a9/assets/banner.svg" width="100%" alt="Sebastiao Neto — banner animado rubro-negro. Engenharia de Software, 2º período." />
 </p>
 
 <p align="center">
@@ -40,7 +40,7 @@ Entre meus trabalhos está o **Maceió Náutica**, projeto acadêmico desenvolvi
 ## Tecnologias
 
 <p>
-  <img src="./assets/technologies.svg" width="100%" alt="Tecnologias em estudo: Java, Python, JavaScript, TypeScript, HTML e CSS" />
+  <img src="https://raw.githubusercontent.com/Oten7/Oten7/2e1fc3b50ff3cefeff19848a9318935f7bb7a1a9/assets/technologies.svg" width="100%" alt="Tecnologias em estudo: Java, Python, JavaScript, TypeScript, HTML e CSS" />
 </p>
 
 <p align="center">
