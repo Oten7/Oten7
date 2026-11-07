@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+<title id="title">Sebastiao Neto — Desenvolvimento de software</title><desc id="desc">Banner azul e ciano com o nome Sebastiao Neto e a frase Aprender. Construir. Evoluir.</desc>
+<defs>
+<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#08111f"/><stop offset="1" stop-color="#102b46"/></linearGradient>
+<linearGradient id="accent"><stop stop-color="#38bdf8"/><stop offset="1" stop-color="#5eead4"/></linearGradient>
+<radialGradient id="glow"><stop stop-color="#0891b2" stop-opacity=".25"/><stop offset="1" stop-color="#0891b2" stop-opacity="0"/></radialGradient>
+<pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#7dd3fc" stroke-opacity=".055"/></pattern>
+</defs>
+<rect width="1200" height="360" rx="24" fill="url(#bg)"/>
+<rect width="1200" height="360" rx="24" fill="url(#grid)"/>
+<ellipse cx="970" cy="180" rx="300" ry="260" fill="url(#glow)"/>
+<path d="M56 0H1144" stroke="url(#accent)" stroke-width="3"/>
+<g font-family="Segoe UI,Arial,sans-serif">
+<text x="64" y="69" font-size="14" letter-spacing="4" fill="#67e8f9">OTEN7 / DESENVOLVIMENTO DE SOFTWARE</text>
+<text x="60" y="157" font-size="68" font-weight="700" letter-spacing="-2" fill="#f0f9ff">Sebastiao Neto<tspan fill="#5eead4">.</tspan></text>
+<text x="64" y="205" font-size="25" fill="#b4c9dd">Aprender. Construir. Evoluir.</text>
+<rect x="64" y="258" width="262" height="38" rx="19" fill="#122f46" stroke="#29576b"/>
+<circle cx="84" cy="277" r="4" fill="#5eead4"/>
+<text x="100" y="283" font-size="14" letter-spacing="1" fill="#c8e9f1">DO CÓDIGO À EXPERIÊNCIA</text>
+</g>
+<g transform="translate(990 175)" fill="none">
+<circle r="119" stroke="#38bdf8" stroke-opacity=".2"/>
+<circle r="92" stroke="#67e8f9" stroke-opacity=".15" stroke-dasharray="4 10"/>
+<rect x="-62" y="-62" width="124" height="124" rx="28" transform="rotate(-12)" fill="#102a40" stroke="#2e6880"/>
+<path d="M-26-19L-45 0L-26 19M26-19L45 0L26 19M12-31L-12 31" stroke="url(#accent)" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="99" cy="-66" r="6" fill="#5eead4"/><circle cx="-94" cy="72" r="4" fill="#38bdf8"/>
+</g></svg>
