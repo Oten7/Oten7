@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="./assets/banner.svg" width="100%" alt="Sebastiao Neto — Estudante de Engenharia de Software, 2º período." />
+  <img src="./assets/banner.svg" width="100%" alt="Sebastiao Neto — banner animado rubro-negro. Engenharia de Software, 2º período." />
 </p>
 
 <p align="center">
   <strong>Engenharia de Software · 2º período</strong><br />
-  <sub>Aprendendo na faculdade. Colocando em prática no código.</sub>
+  <sub>Java, Python e web — meus estudos e projetos por aqui.</sub>
 </p>
 
 <p align="center">
@@ -79,6 +79,6 @@ Entre meus trabalhos está o **Maceió Náutica**, projeto acadêmico desenvolvi
 ---
 
 <p align="center">
-  <strong>Aprender. Construir. Evoluir.</strong><br />
+  <strong>Entre uma aula e outra, um commit.</strong><br />
   <sub>Sebastiao Neto · Engenharia de Software</sub>
 </p>
