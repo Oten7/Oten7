@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
-<title id="title">Sebastiao Neto — Desenvolvimento de software</title><desc id="desc">Banner azul e ciano com o nome Sebastiao Neto e a frase Aprender. Construir. Evoluir.</desc>
+<title id="title">Sebastiao Neto — Estudante de Engenharia de Software</title><desc id="desc">Sebastiao Neto. Estudante de Engenharia de Software, 2º período. Aprender. Construir. Evoluir.</desc>
 <defs>
 <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#08111f"/><stop offset="1" stop-color="#102b46"/></linearGradient>
 <linearGradient id="accent"><stop stop-color="#38bdf8"/><stop offset="1" stop-color="#5eead4"/></linearGradient>
@@ -11,12 +11,12 @@
 <ellipse cx="970" cy="180" rx="300" ry="260" fill="url(#glow)"/>
 <path d="M56 0H1144" stroke="url(#accent)" stroke-width="3"/>
 <g font-family="Segoe UI,Arial,sans-serif">
-<text x="64" y="69" font-size="14" letter-spacing="4" fill="#67e8f9">OTEN7 / DESENVOLVIMENTO DE SOFTWARE</text>
+<text x="64" y="69" font-size="14" letter-spacing="4" fill="#67e8f9">OTEN7 / ESTUDANTE DE ENGENHARIA DE SOFTWARE</text>
 <text x="60" y="157" font-size="68" font-weight="700" letter-spacing="-2" fill="#f0f9ff">Sebastiao Neto<tspan fill="#5eead4">.</tspan></text>
 <text x="64" y="205" font-size="25" fill="#b4c9dd">Aprender. Construir. Evoluir.</text>
-<rect x="64" y="258" width="262" height="38" rx="19" fill="#122f46" stroke="#29576b"/>
+<rect x="64" y="258" width="306" height="38" rx="19" fill="#122f46" stroke="#29576b"/>
 <circle cx="84" cy="277" r="4" fill="#5eead4"/>
-<text x="100" y="283" font-size="14" letter-spacing="1" fill="#c8e9f1">DO CÓDIGO À EXPERIÊNCIA</text>
+<text x="100" y="283" font-size="14" letter-spacing="1" fill="#c8e9f1">GRADUAÇÃO EM CURSO · 2º PERÍODO</text>
 </g>
 <g transform="translate(990 175)" fill="none">
 <circle r="119" stroke="#38bdf8" stroke-opacity=".2"/>
