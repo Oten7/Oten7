@@ -1,27 +1,49 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
-<title id="title">Sebastiao Neto — Estudante de Engenharia de Software</title><desc id="desc">Sebastiao Neto. Estudante de Engenharia de Software, 2º período. Aprender. Construir. Evoluir.</desc>
+<title id="title">Sebastiao Neto — Engenharia de Software</title>
+<desc id="desc">Banner animado vermelho e preto inspirado nas cores do Flamengo. Estudante do 2º período. Entre uma aula e outra, um commit.</desc>
 <defs>
-<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#08111f"/><stop offset="1" stop-color="#102b46"/></linearGradient>
-<linearGradient id="accent"><stop stop-color="#38bdf8"/><stop offset="1" stop-color="#5eead4"/></linearGradient>
-<radialGradient id="glow"><stop stop-color="#0891b2" stop-opacity=".25"/><stop offset="1" stop-color="#0891b2" stop-opacity="0"/></radialGradient>
-<pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#7dd3fc" stroke-opacity=".055"/></pattern>
+<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#09090b"/><stop offset="1" stop-color="#211014"/></linearGradient>
+<linearGradient id="red"><stop stop-color="#e31937"/><stop offset="1" stop-color="#ff5368"/></linearGradient>
+<linearGradient id="fade"><stop stop-color="#0b0b0e"/><stop offset=".6" stop-color="#0b0b0e" stop-opacity=".95"/><stop offset="1" stop-color="#0b0b0e" stop-opacity="0"/></linearGradient>
+<clipPath id="frame"><rect width="1200" height="360" rx="22"/></clipPath>
+<clipPath id="shield"><path d="M891 91H1091V199Q1091 263 991 303Q891 263 891 199Z"/></clipPath>
 </defs>
-<rect width="1200" height="360" rx="24" fill="url(#bg)"/>
-<rect width="1200" height="360" rx="24" fill="url(#grid)"/>
-<ellipse cx="970" cy="180" rx="300" ry="260" fill="url(#glow)"/>
-<path d="M56 0H1144" stroke="url(#accent)" stroke-width="3"/>
-<g font-family="Segoe UI,Arial,sans-serif">
-<text x="64" y="69" font-size="14" letter-spacing="4" fill="#67e8f9">OTEN7 / ESTUDANTE DE ENGENHARIA DE SOFTWARE</text>
-<text x="60" y="157" font-size="68" font-weight="700" letter-spacing="-2" fill="#f0f9ff">Sebastiao Neto<tspan fill="#5eead4">.</tspan></text>
-<text x="64" y="205" font-size="25" fill="#b4c9dd">Aprender. Construir. Evoluir.</text>
-<rect x="64" y="258" width="306" height="38" rx="19" fill="#122f46" stroke="#29576b"/>
-<circle cx="84" cy="277" r="4" fill="#5eead4"/>
-<text x="100" y="283" font-size="14" letter-spacing="1" fill="#c8e9f1">GRADUAÇÃO EM CURSO · 2º PERÍODO</text>
+<style>
+@keyframes drift{0%,100%{transform:translateX(0)}50%{transform:translateX(-24px)}}
+@keyframes breathe{0%,100%{opacity:.35}50%{opacity:.9}}
+@keyframes cursor{0%,45%{opacity:1}50%,95%{opacity:0}100%{opacity:1}}
+@keyframes dash{to{stroke-dashoffset:-100}}
+.bands{animation:drift 10s ease-in-out infinite}
+.halo{animation:breathe 5s ease-in-out infinite}
+.cursor{animation:cursor 1.5s steps(1) infinite}
+.track{animation:dash 12s linear infinite}
+@media(prefers-reduced-motion:reduce){.bands,.halo,.cursor,.track{animation:none}}
+</style>
+<g clip-path="url(#frame)">
+<rect width="1200" height="360" fill="url(#bg)"/>
+<g class="bands" transform="skewX(-15)" opacity=".75" fill="#aa1028">
+<path d="M800-30H1270V25H800ZM800 70H1270V125H800ZM800 170H1270V225H800ZM800 270H1270V325H800Z"/>
 </g>
-<g transform="translate(990 175)" fill="none">
-<circle r="119" stroke="#38bdf8" stroke-opacity=".2"/>
-<circle r="92" stroke="#67e8f9" stroke-opacity=".15" stroke-dasharray="4 10"/>
-<rect x="-62" y="-62" width="124" height="124" rx="28" transform="rotate(-12)" fill="#102a40" stroke="#2e6880"/>
-<path d="M-26-19L-45 0L-26 19M26-19L45 0L26 19M12-31L-12 31" stroke="url(#accent)" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
-<circle cx="99" cy="-66" r="6" fill="#5eead4"/><circle cx="-94" cy="72" r="4" fill="#38bdf8"/>
+<rect width="920" height="360" fill="url(#fade)"/>
+<path d="M0 0H1200" stroke="url(#red)" stroke-width="6"/>
+<path d="M64 330H1136" stroke="#ffffff" stroke-opacity=".08"/>
+<g font-family="Segoe UI,Arial,sans-serif">
+<text x="64" y="63" fill="#ff6579" font-size="14" font-weight="600" letter-spacing="3">OTEN7 / ENGENHARIA DE SOFTWARE</text>
+<text x="60" y="151" fill="#fafafa" font-size="68" font-weight="750" letter-spacing="-2">Sebastiao Neto<tspan fill="#ed2444">.</tspan></text>
+<text x="64" y="203" fill="#d4c4c8" font-size="25">Entre uma aula e outra, um commit.</text>
+<path class="cursor" d="M486 211H502" stroke="#ff405e" stroke-width="3"/>
+<rect x="64" y="251" width="153" height="38" rx="7" fill="#291216" stroke="#66202f"/>
+<circle class="halo" cx="82" cy="270" r="4" fill="#ff405e"/>
+<text x="96" y="276" fill="#ffe4e8" font-size="14" font-weight="600" letter-spacing="1">2º PERÍODO</text>
+<text x="238" y="276" fill="#a18b92" font-size="13" letter-spacing="2">JAVA · PYTHON · WEB</text>
+</g>
+<path class="track" d="M863 70H1119V200Q1119 281 991 326Q863 281 863 200Z" fill="none" stroke="#ff667b" stroke-opacity=".38" stroke-dasharray="4 16"/>
+<g clip-path="url(#shield)">
+<rect x="891" y="91" width="200" height="212" fill="#0c0c0f"/>
+<path d="M891 110H1091V146H891ZM891 183H1091V219H891ZM891 256H1091V292H891Z" fill="#c91432"/>
+<rect x="928" y="139" width="126" height="102" rx="14" fill="#0c0c0f" fill-opacity=".92"/>
+<path d="M968 169L948 190L968 211M1014 169L1034 190L1014 211M998 162L984 218" fill="none" stroke="#fff1f3" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<path d="M891 91H1091V199Q1091 263 991 303Q891 263 891 199Z" fill="none" stroke="#ff5368" stroke-opacity=".65" stroke-width="2"/>
+<text x="991" y="57" text-anchor="middle" fill="#f5c0c8" font-family="Consolas,monospace" font-size="12" letter-spacing="5">RUBRO-NEGRO</text>
 </g></svg>
