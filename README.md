@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/intro-rubro-negro.svg" width="100%" alt="Engenharia de Software · 2º período. Java, Python e desenvolvimento web." />
+  <img src="https://raw.githubusercontent.com/Oten7/Oten7/5c6ce49c2801789270cd4ac9392ec757dfa087e5/assets/intro-rubro-negro.svg" width="100%" alt="Engenharia de Software · 2º período. Java, Python e desenvolvimento web." />
 </p>
 
 <p align="center">
@@ -14,13 +14,11 @@
 
 ### Sobre mim
 
-Sou **Sebastiao Neto**, mas pode chamar de **Neto**. Estou no **2º período de Engenharia de Software** e uso este espaço para guardar o que estudo e os projetos que vou fazendo.
+Sou **Sebastiao Neto**, mas pode chamar de **Neto**. Curso **Engenharia de Software** e estou no **2º período**.
 
-- 🎓 **Faculdade:** Engenharia de Software, 2º período.
-- 💻 **Estudos:** Java, Python, JavaScript, TypeScript, HTML e CSS.
-- 🤝 **Projeto em equipe:** Maceió Náutica, com interface web, servidor Python e SQLite.
+Por aqui compartilho meus estudos em **Java, Python e desenvolvimento web**, além dos projetos da faculdade. Um deles é o **Maceió Náutica**, que desenvolvi em equipe.
 
-Por aqui tem exercício, projeto de faculdade e código em construção.
+Ainda tenho bastante coisa para aprender. Este perfil vai acompanhando o caminho.
 
 ---
 
@@ -28,26 +26,41 @@ Por aqui tem exercício, projeto de faculdade e código em construção.
 
 **Programação**
 
-![Java](./assets/java-badge.svg) ![Python](https://img.shields.io/badge/Python-171114?style=for-the-badge&logo=python&logoColor=FF405E)
+![Java](https://raw.githubusercontent.com/Oten7/Oten7/5c6ce49c2801789270cd4ac9392ec757dfa087e5/assets/java-badge.svg) ![Python](https://img.shields.io/badge/Python-171114?style=for-the-badge&logo=python&logoColor=FF405E)
 
 **Desenvolvimento web**
 
 ![HTML5](https://img.shields.io/badge/HTML5-171114?style=for-the-badge&logo=html5&logoColor=FF405E) ![CSS3](https://img.shields.io/badge/CSS3-171114?style=for-the-badge&logo=css&logoColor=FF405E) ![JavaScript](https://img.shields.io/badge/JavaScript-171114?style=for-the-badge&logo=javascript&logoColor=FF405E) ![TypeScript](https://img.shields.io/badge/TypeScript-171114?style=for-the-badge&logo=typescript&logoColor=FF405E)
 
-**Presente no projeto Maceió Náutica**
+**Banco de dados · usado no Maceió Náutica**
 
 ![SQLite](https://img.shields.io/badge/SQLite-171114?style=for-the-badge&logo=sqlite&logoColor=FF405E)
 
-<sub>Tecnologias que uso ou estudo — ainda construindo minha base.</sub>
+<sub>Tecnologias que fazem parte dos meus estudos e projetos.</sub>
 
 ---
 
 ### Projetos
 
-| Projeto | O que tem por lá | Tecnologias |
-| :--- | :--- | :--- |
-| **[Maceió Náutica ↗](https://github.com/Oten7/site-nautico)** | Projeto acadêmico em equipe: catálogo de passeios, busca, filtros e painel de administração. | Python · JavaScript · HTML · CSS · SQLite |
-| **[Estudos em Java ↗](https://github.com/Oten7/java)** | Estudos e prática de programação ao longo da minha formação. | Java |
+#### ⛵ [Maceió Náutica](https://github.com/Oten7/site-nautico)
+**Projeto acadêmico em equipe**
+
+Catálogo de passeios náuticos com busca e filtros, painel de administração e dados salvos em SQLite. A interface web se conecta a um servidor Python.
+
+<sub>Python · JavaScript · HTML · CSS · SQLite</sub>
+
+[Ver código e instruções de execução ↗](https://github.com/Oten7/site-nautico#readme)
+
+<br />
+
+#### ☕ [Estudos em Java](https://github.com/Oten7/java)
+**Prática de programação**
+
+Repositório com meus estudos em Java durante a graduação.
+
+<sub>Java</sub>
+
+[Explorar os arquivos ↗](https://github.com/Oten7/java)
 
 <p align="right">
   <a href="https://github.com/Oten7?tab=repositories">Ver todos os repositórios →</a>
