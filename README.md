@@ -28,7 +28,7 @@ Por aqui tem exercício, projeto de faculdade e código em construção.
 
 **Programação**
 
-![Java](https://img.shields.io/badge/Java-171114?style=for-the-badge&logoColor=FF405E) ![Python](https://img.shields.io/badge/Python-171114?style=for-the-badge&logo=python&logoColor=FF405E)
+![Java](./assets/java-badge.svg) ![Python](https://img.shields.io/badge/Python-171114?style=for-the-badge&logo=python&logoColor=FF405E)
 
 **Desenvolvimento web**
 
