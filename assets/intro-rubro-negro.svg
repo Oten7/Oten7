@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="86" viewBox="0 0 1000 86" role="img" aria-labelledby="title">
+<title id="title">Engenharia de Software · 2º período / Java, Python e desenvolvimento web / Entre uma aula e outra, um commit.</title>
+<style>
+@keyframes typing{0%{width:0}65%,90%{width:850px}100%{width:0}}
+@keyframes first{0%,32.99%{opacity:1}33%,100%{opacity:0}}
+@keyframes second{0%,32.99%{opacity:0}33%,65.99%{opacity:1}66%,100%{opacity:0}}
+@keyframes third{0%,65.99%{opacity:0}66%,99.99%{opacity:1}100%{opacity:0}}
+.reveal{animation:typing 4s steps(42,end) infinite}
+.one{animation:first 12s infinite}.two{animation:second 12s infinite}.three{animation:third 12s infinite}
+@media(prefers-reduced-motion:reduce){.reveal{animation:none;width:850px}.one{animation:none;opacity:1}.two,.three{animation:none;opacity:0}}
+</style>
+<defs><clipPath id="typing"><rect class="reveal" x="70" y="0" width="850" height="86"/></clipPath></defs>
+<g clip-path="url(#typing)" font-family="Consolas,monospace" font-size="28" fill="#ef3554" text-anchor="middle">
+<text class="one" x="500" y="51">Engenharia de Software · 2º período</text>
+<text class="two" x="500" y="51" opacity="0">Java, Python e desenvolvimento web</text>
+<text class="three" x="500" y="51" opacity="0">Entre uma aula e outra, um commit.</text>
+</g></svg>
