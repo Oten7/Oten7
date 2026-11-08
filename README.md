@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Oten7/Oten7/2e1fc3b50ff3cefeff19848a9318935f7bb7a1a9/assets/banner.svg" width="100%" alt="Sebastiao Neto — banner animado vermelho e preto, inspirado nas cores do Flamengo." />
+  <img src="https://raw.githubusercontent.com/Oten7/Oten7/a865212a13a566757f3fb03a8cc11eb7ab078e1f/assets/banner.svg" width="100%" alt="Sebastiao Neto — banner animado vermelho e preto com o escudo original do Flamengo." />
 </p>
 
 <p align="center">
@@ -61,6 +61,13 @@ Repositório com meus estudos em Java durante a graduação.
 <sub>Java</sub>
 
 [Explorar os arquivos ↗](https://github.com/Oten7/java)
+
+#### 📚 [Atividades da faculdade](https://github.com/Oten7/Universidade)
+**Exercícios por aula**
+
+Práticas de lógica de programação em Python e C, organizadas por disciplina e aula.
+
+[Consultar o guia das pastas ↗](https://github.com/Oten7/Universidade#readme)
 
 <p align="right">
   <a href="https://github.com/Oten7?tab=repositories">Ver todos os repositórios →</a>
