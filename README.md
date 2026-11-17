@@ -1,80 +1,64 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Oten7/Oten7/a865212a13a566757f3fb03a8cc11eb7ab078e1f/assets/banner.svg" width="100%" alt="Sebastiao Neto — banner animado vermelho e preto com o escudo original do Flamengo." />
+  <img src="https://raw.githubusercontent.com/Oten7/Oten7/main/assets/profile-header.svg" width="100%" alt="Sebastiao Neto — Engenharia de Software. Projetos, estudos e aplicações." />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Oten7/Oten7/5c6ce49c2801789270cd4ac9392ec757dfa087e5/assets/intro-rubro-negro.svg" width="100%" alt="Engenharia de Software · 2º período. Java, Python e desenvolvimento web." />
+  <a href="#projetos-em-destaque">Projetos</a> ·
+  <a href="#tecnologias-em-contexto">Tecnologias</a> ·
+  <a href="#estudos-e-prática">Estudos</a>
 </p>
 
-<p align="center">
-  <a href="#sobre-mim">Sobre mim</a> &nbsp; · &nbsp;
-  <a href="#tecnologias">Tecnologias</a> &nbsp; · &nbsp;
-  <a href="#projetos">Projetos</a>
-</p>
+## Olá, sou o Neto.
 
-### Sobre mim
+Sou **Sebastiao Neto**, graduando em **Engenharia de Software**. Estudo **Java, Python e desenvolvimento web** e uso projetos para colocar o aprendizado em prática.
 
-Sou **Sebastiao Neto**, mas pode chamar de **Neto**. Curso **Engenharia de Software** e estou no **2º período**.
+Tenho interesse em aplicações com interfaces claras, dados persistentes e integração com IA. Por aqui, compartilho projetos acadêmicos em equipe, aplicações pessoais e exercícios da graduação.
 
-Por aqui compartilho meus estudos em **Java, Python e desenvolvimento web**, além dos projetos da faculdade. Um deles é o **Maceió Náutica**, que desenvolvi em equipe.
+## Projetos em destaque
 
-Ainda tenho bastante coisa para aprender. Este perfil vai acompanhando o caminho.
+### [Crônicas de Aether](https://github.com/Oten7/cronicas-de-aether)
 
----
+**RPG de fantasia com Mestre IA · Aplicativo Windows disponível**
 
-### Tecnologias
+Criação de personagem, narrativa com Gemini, dados D20, combate e progressão. A edição Windows tem janela própria, partidas solo, salvamento local e backup das campanhas.
 
-**Programação**
+**No projeto:** React · JavaScript · Electron · SQLite · API Gemini
 
-![Java](https://raw.githubusercontent.com/Oten7/Oten7/5c6ce49c2801789270cd4ac9392ec757dfa087e5/assets/java-badge.svg) ![Python](https://img.shields.io/badge/Python-171114?style=for-the-badge&logo=python&logoColor=FF405E)
+[Explorar o projeto →](https://github.com/Oten7/cronicas-de-aether#readme) &nbsp; [Baixar para Windows →](https://github.com/Oten7/cronicas-de-aether/releases/tag/v1.0.0-windows)
 
-**Desenvolvimento web**
+<sub>O Mestre IA precisa de internet e de uma chave Gemini do jogador. Os saves do aplicativo ficam no computador; não há sincronização com as campanhas do site.</sub>
 
-![HTML5](https://img.shields.io/badge/HTML5-171114?style=for-the-badge&logo=html5&logoColor=FF405E) ![CSS3](https://img.shields.io/badge/CSS3-171114?style=for-the-badge&logo=css&logoColor=FF405E) ![JavaScript](https://img.shields.io/badge/JavaScript-171114?style=for-the-badge&logo=javascript&logoColor=FF405E) ![TypeScript](https://img.shields.io/badge/TypeScript-171114?style=for-the-badge&logo=typescript&logoColor=FF405E)
+### [Maceió Náutica](https://github.com/Oten7/site-nautico)
 
-**Banco de dados · usado no Maceió Náutica**
+**Projeto acadêmico em equipe · Catálogo de passeios náuticos**
 
-![SQLite](https://img.shields.io/badge/SQLite-171114?style=for-the-badge&logo=sqlite&logoColor=FF405E)
+MVP com busca, filtros, favoritos, painel administrativo e persistência em SQLite. A interface web se conecta a um servidor Python.
 
-<sub>Tecnologias que fazem parte dos meus estudos e projetos.</sub>
+**No projeto:** Python · JavaScript · HTML · CSS · SQLite
 
----
+[Código e execução local →](https://github.com/Oten7/site-nautico#readme) &nbsp; [Ver a demonstração visual →](https://oten7.github.io/site-nautico/)
 
-### Projetos
+<sub>Projeto de demonstração acadêmica. A versão no GitHub Pages é estática; as funções de servidor são executadas localmente.</sub>
 
-#### ⛵ [Maceió Náutica](https://github.com/Oten7/site-nautico)
-**Projeto acadêmico em equipe**
+## Tecnologias em contexto
 
-Catálogo de passeios náuticos com busca e filtros, painel de administração e dados salvos em SQLite. A interface web se conecta a um servidor Python.
+| Área | Estudos e aplicação |
+| :--- | :--- |
+| Fundamentos | Java e Python em exercícios de lógica e programação. |
+| Desenvolvimento web | HTML, CSS e JavaScript nas interfaces dos projetos. |
+| Aplicações | React e Electron na edição desktop do Crônicas de Aether. |
+| Persistência | SQLite no Maceió Náutica e nos saves locais do RPG. |
+| IA aplicada | Integração com a API Gemini para a narrativa do Mestre. |
 
-<sub>Python · JavaScript · HTML · CSS · SQLite</sub>
+## Estudos e prática
 
-[Ver código e instruções de execução ↗](https://github.com/Oten7/site-nautico#readme)
-
-<br />
-
-#### ☕ [Estudos em Java](https://github.com/Oten7/java)
-**Prática de programação**
-
-Repositório com meus estudos em Java durante a graduação.
-
-<sub>Java</sub>
-
-[Explorar os arquivos ↗](https://github.com/Oten7/java)
-
-#### 📚 [Atividades da faculdade](https://github.com/Oten7/Universidade)
-**Exercícios por aula**
-
-Práticas de lógica de programação em Python e C, organizadas por disciplina e aula.
-
-[Consultar o guia das pastas ↗](https://github.com/Oten7/Universidade#readme)
-
-<p align="right">
-  <a href="https://github.com/Oten7?tab=repositories">Ver todos os repositórios →</a>
-</p>
+- **[Java](https://github.com/Oten7/java)** — fundamentos, exercícios e modelagem de classes.
+- **[Universidade](https://github.com/Oten7/Universidade)** — atividades de lógica e programação em Python e C.
+- **[Estudos em Python](https://github.com/Oten7/udemy)** — exercícios organizados durante os cursos.
 
 ---
 
 <p align="center">
-  <sub><strong>Sebastiao Neto</strong> · Entre uma aula e outra, um commit.</sub>
+  <a href="https://github.com/Oten7?tab=repositories">Explorar todos os repositórios</a><br />
+  <sub>Aprendendo com projetos, documentando o processo e evoluindo a cada entrega.</sub>
 </p>
